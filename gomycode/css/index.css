@@ -1,0 +1,48 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  font-family: verdana;
+  font-weight: 1000px;
+}
+.rafik {
+  color: brown;
+  font-style: oblique;
+  font-size: 25px;
+}
+h2 {
+  color: cornflowerblue;
+  border: 5px solid red;
+  font-size: 25px;
+  width: 30%;
+}
+h3 {
+  color: crimson;
+}
+h4 {
+  color: darkgreen;
+  text-align: right;
+  font-style: italic;
+  font-size: 40px;
+}
+.exo {
+  display: inline;
+  font-size: 20px;
+  color: darkorange;
+}
+.para {
+  display: inline-block ;
+  font-weight: 30px;
+  line height: 100px;
+}
+.rou {
+  font-size: 30px;
+  font-style: oblique;
+}
+h5 {
+   
+}
+#ayari {
+    text-align: right;
+}
